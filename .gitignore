@@ -3,3 +3,5 @@ calories_app/calories_app/db.sqlite3
 .idea
 calories_app/calories_app/__pycache__
 calories_app/calories_app/settings/__pycache__
+calories_app/calories_app/users/__pycache__
+calories_app/calories_app/users/migrations/__pycache__
